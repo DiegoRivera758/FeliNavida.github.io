@@ -27,7 +27,7 @@ h1 {
   font-size: 100px;
   margin-top: -100px;
   display: inline-block;
-  animation: parpadeo 1s infinite alternate; /* Añade un borde amarillo encima del texto */
+  animation: parpadeo 0.7s infinite alternate; /* Añade un borde amarillo encima del texto */
 }
 
 @keyframes parpadeo {
@@ -52,7 +52,7 @@ h1 {
   padding: 10px 20px; /* Ajusta el relleno según tu preferencia */
   font-size: 18px; /* Tamaño de fuente */
   cursor: pointer;
-  margin-left: -400px;
+  margin-left: -380px;
   margin-top: 200px;
   position: relative; /* Necesario para el resplandor */
   border-radius: 20px; /* Esquinas redondeadas */
