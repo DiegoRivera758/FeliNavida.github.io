@@ -38,6 +38,7 @@ h1 {
   border: none;
   padding: 10px 20px; 
   font-size: 18px; 
+  font-weight: bold;
   cursor: pointer;
   margin-left: -380px;
   margin-top: 200px;
