@@ -52,7 +52,7 @@ h1 {
   padding: 10px 20px; /* Ajusta el relleno según tu preferencia */
   font-size: 18px; /* Tamaño de fuente */
   cursor: pointer;
-  margin-left: -420px;
+  margin-left: -400px;
   margin-top: 200px;
   position: relative; /* Necesario para el resplandor */
   border-radius: 20px; /* Esquinas redondeadas */
